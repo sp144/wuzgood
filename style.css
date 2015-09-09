@@ -1,0 +1,9 @@
+* {
+    margin: auto;
+    width: 500px;
+    border: 1px;
+    padding: 1px;}
+
+p {
+    font-family: monospace;
+    text-align: center;}
